@@ -1,4 +1,6 @@
-# Billy-Shao.github.io
+# JohnDoe
+A Responsive Free One Page Portfolio Website template
 
-#Build settings
-theme: minima
+
+
+
