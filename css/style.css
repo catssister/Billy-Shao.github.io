@@ -369,7 +369,7 @@ table {
 	right:0.5em;
 	bottom:0.5em;
 	left:0.5em;
-	background: linear-gradient(#E04343 20%,rgba(0, 0, 0, 0) 20%,rgba(0, 0, 0, 0) 40%,#E04343 40%,#E04343 60%,rgba(0, 0, 0, 0) 60%,rgba(0, 0, 0, 0) 80%,#E04343 80%);
+	background: linear-gradient(#B56EFD 20%,rgba(0, 0, 0, 0) 20%,rgba(0, 0, 0, 0) 40%,#FFE801D1 40%,#FFE800D9 60%,rgba(0, 0, 0, 0) 60%,rgba(0, 0, 0, 0) 80%,#3288F5 80%);
 	content:'';
 }
 .menu-button:hover {
@@ -483,7 +483,7 @@ table {
 }
 .hero p {
 	letter-spacing:1px;
-	color:#fff;
+	color:#3b92dd;
 	font-size: 15px;
 }
 /* Boucing Arrow Animation */
@@ -593,7 +593,7 @@ h1.arrow span {
 }
 .color-bg .weight-outline-btn {
     color: white;
-    border-color: white;
+    border-color: #EFE50D;
 }
 .color-bg .weight-outline-btn:hover {
   background: #FFF;
@@ -890,15 +890,15 @@ img.grayscale:hover {
 .weight-outline-btn {
 	display:inline-block;
 	padding:20px 30px;
-	color:#8C8C8C;
-	border:solid 1px #8C8C8C;
+	color:#6A46F7;
+	border:solid 1px #3679EF;
 	text-transform:uppercase;
 	font-weight:bold;
 	letter-spacing:1px;
 }
 .weight-outline-btn:hover,.outline-btn:focus {
-	color:#424242;
-	border: solid 1px #424242;
+	color:#51aef7a3;
+	border: solid 1px #C352F99E;
 }
 /* ==========================================================================Team========================================================================== */
 .team img {
